@@ -30,7 +30,7 @@ setup(
     description="WeKnora MCP Server - Model Context Protocol server for WeKnora API",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/weknora/weknora-mcp-server",
+    url="https://github.com/NannaOlympicBroadcast/WeKnoraMCP",
     py_modules=["weknora_mcp_server", "main", "run_server", "run", "test_module"],
     classifiers=[
         "Development Status :: 4 - Beta",

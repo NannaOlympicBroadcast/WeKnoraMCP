@@ -205,4 +205,4 @@ sudo systemctl start weknora-mcp
 1. 查看日志输出
 2. 检查环境配置
 3. 参考故障排除部分
-4. 提交 Issue 到项目仓库
+4. 提交 Issue 到项目仓库: https://github.com/NannaOlympicBroadcast/WeKnoraMCP/issues

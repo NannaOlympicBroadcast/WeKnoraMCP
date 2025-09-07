@@ -274,5 +274,6 @@ python test_module.py            # 运行测试
 ---
 
 **项目状态**: ✅ 完成并可投入使用
+**项目仓库**: https://github.com/NannaOlympicBroadcast/WeKnoraMCP
 **最后更新**: 2024年1月
 **版本**: 1.0.0

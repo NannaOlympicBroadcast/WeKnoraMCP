@@ -51,11 +51,11 @@ test = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/weknora/weknora-mcp-server"
+Homepage = "https://github.com/NannaOlympicBroadcast/WeKnoraMCP"
 Documentation = "https://docs.weknora.com"
-Repository = "https://github.com/weknora/weknora-mcp-server"
-"Bug Reports" = "https://github.com/weknora/weknora-mcp-server/issues"
-Changelog = "https://github.com/weknora/weknora-mcp-server/blob/main/CHANGELOG.md"
+Repository = "https://github.com/NannaOlympicBroadcast/WeKnoraMCP"
+"Bug Reports" = "https://github.com/NannaOlympicBroadcast/WeKnoraMCP/issues"
+Changelog = "https://github.com/NannaOlympicBroadcast/WeKnoraMCP/blob/main/CHANGELOG.md"
 
 [project.scripts]
 weknora-mcp-server = "main:sync_main"
