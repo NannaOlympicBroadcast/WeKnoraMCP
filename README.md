@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nannaolympicbroadcast-weknoramcp-badge.png)](https://mseep.ai/app/nannaolympicbroadcast-weknoramcp)
+
 # WeKnora MCP Server
 
 这是一个 Model Context Protocol (MCP) 服务器，提供对 WeKnora 知识管理 API 的访问。
